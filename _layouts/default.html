@@ -9,7 +9,7 @@
 
 </title>
     <meta name="description" content="{% if page.description %} {{page.description }} {% else %} {{ site.description}}{% endif %}">
-    <base href="http://172.31.80.247:4000">
+    <base href="{{site.relative_url}}">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
     <link rel="shortcut icon" type="image/x-icon" href="{{ '/img/logo-var.png' | relative_url }}">
