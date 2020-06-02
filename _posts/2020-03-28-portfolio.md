@@ -6,7 +6,7 @@ date: 2020-03-20 18:43
 image: 
 category:
 subtitle: Criação feita em grupo durante o 3º Semestre do curso de Engenharia de Software
-permalink: /blog/portfolio
+permalink: /blog/portfolio.html
 ---
 
 <h2>Criando um site estático com Jekyll</h2>

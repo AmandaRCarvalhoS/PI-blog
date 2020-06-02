@@ -7,7 +7,7 @@ author: Rafael Casa Santa Pierote
 
 
 
- <a> <img src="img/membros/rafael.jpg"  width="50%" height="50%"></a>
+ <a> <img src="img/membros/Rafael.jpeg"  width="50%" height="50%"></a>
  
  <h3>Rafael Casa Santa Pierote</h3>
  <p>Estudante de programação no segundo ano do curso, aprendendo projetos e 
