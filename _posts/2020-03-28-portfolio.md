@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Jekyll portfolio
 author: Rafael Casa Santa Pierote
 date: 2020-03-20 18:43
