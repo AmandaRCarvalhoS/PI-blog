@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jekyll portfolio
-author: Amanda Rodrigues Carvalho da Silva
+author: Rafael Casa Santa Pierote
 date: 2020-03-20 18:43
 image: 
 category:

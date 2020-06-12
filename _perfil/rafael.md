@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Conhecendo os Membros
 permalink: /perfil/rafael.html
 author: Rafael Casa Santa Pierote
